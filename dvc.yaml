@@ -1,0 +1,9 @@
+stages:
+  collect_news:
+    cmd: python news-collection.py
+    deps:
+    - news-collection.py
+    outs:
+    - news_data.csv
+  collect_news_alt:
+    cmd: \

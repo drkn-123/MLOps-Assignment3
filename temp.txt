@@ -1,0 +1,3 @@
+drive for dvc remote storage: https://drive.google.com/drive/folders/1BpdxmnqD_RZFO36j6CFscvHXnPiBFJi5?usp=sharing
+
+api key for newsAPI: 953eea93e4234be08e5012163066de26

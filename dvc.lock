@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  collect_news:
+    cmd: python news-collection.py
+    deps:
+    - path: news-collection.py
+      hash: md5
+      md5: 7e1c457dc05552815fc38349f19df3ad
+      size: 880
+    outs:
+    - path: news_data.csv
+      hash: md5
+      md5: db124cd6215aaca96e283557ca5f2bbe
+      size: 4446
